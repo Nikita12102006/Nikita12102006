@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 Обо мне:
 Я студент Нижегородского Губернского колледжа города Нижний Новгород, обучаюсь по специальности «Программист».<br><br>В рамках обучения и самостоятельной практики разрабатываю учебные и pet-проекты, изучаю современные подходы к программированию и стараюсь применять их на практике.<br><br>🛠️ Используемые технологии и языки<br><br>В своих проектах использую следующие языки и технологии:<br><br>C# — разработка приложений и работа с .NET<br><br>C — изучение низкоуровневого программирования и алгоритмов<br><br>Kotlin — разработка под Android<br><br>Python — скрипты, автоматизация, учебные проекты<br><br>HTML — вёрстка и основы веб-разработки<br><br><br>🎯 Цели<br><br>Улучшение навыков программирования<br><br>Изучение новых технологий<br><br>Получение практического опыта<br><br>Подготовка к будущей профессиональной деятельности
 
 
-## 🌐 Socials:
+## 🌐 Соц сети:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/molodoy8090) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gusenkovnikita@yandex.ru) 
 
-# 💻 Tech Stack:
+# 💻 Знания:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
